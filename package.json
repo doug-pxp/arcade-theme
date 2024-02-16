@@ -1,0 +1,22 @@
+{
+  "name": "arcade-dark",
+  "displayName": "Arcade-Dark",
+  "description": "The Arcade Dark Theme! meant to replicate the color schemes of retro arcade cabinets",
+  "version": "0.0.1",
+  "publisher": "DougXP",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Arcade Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Arcade Theme-color-theme.json"
+      }
+    ]
+  }
+}
